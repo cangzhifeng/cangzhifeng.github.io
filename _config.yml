@@ -10,7 +10,7 @@ footerText: 'Copyright © 2016 皖ICP备16016174号'
 # 
 repository: cangzhifeng/tmaize-blog  自己的仓库地址
 github_url: https://github.com/cangzhifeng   自己的github地址
-url: https://cangzhifeng.github.io  上面设置的https://YourGithubUserName.github.io
+url: https://cangzhifeng.tmaize-blog.github.io  上面设置的https://YourGithubUserName.github.io
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
