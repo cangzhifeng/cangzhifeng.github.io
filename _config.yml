@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+title: 驿栈长阳
+description: 藏锋的个人博客
+keywords: Cangfeng,Blog,Java,Html,JavaScript
+author: Cangfeng
+footerText: 'Copyright © 2013 京ICP备16016174号'
 
 # 
 repository: cangzhifeng/tmaize-blog  自己的仓库地址
