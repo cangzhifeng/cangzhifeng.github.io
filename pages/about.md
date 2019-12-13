@@ -3,30 +3,30 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+> Hello 童鞋，欢迎访问 藏锋咨询！
 
-该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量
+本博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量
 
-主题使自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，欢迎 Star&Fork。另喜欢本博客的欢迎**添加友链**，在[留言板](chat.html)留言即可
+
 
 ## 相关技能
 
-- 熟悉 JavaScript 语言， 熟练使用 Vue 全家桶,jQuery 等前端框架
+- 熟悉 Java/Php，Go/solidify,Python等技术架构， 熟练Linux应用开发
 
-- 熟悉 Java，NodeJs,Go 等后端语言
+- 开源技术爱好者，对 Spring，Hibernate，JFinal，Mybatis等开源框架有深入理解
 
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
+- 7年多电商/支付/金融行业研发经历，10多年互联网产品架构，运营战略，创业投融资有丰富经验
 
-- 数据库方面能熟练使用 MySQL,Oracle，MongoDB
+- 对互联网产品设计，运营，管理，对数字货币/交易所/区块链赋能传统业务有深入理解，数字货币以及未来投资者
 
-- Linux 的简单使用，各种服务的搭建
+- 持续创业，专注互联网赋能，区块链赋能传统业务场景；对新技术，新产品，新思想，新商业模式等持续跟踪研究/实践
 
-- 能够使用 Git/SVN 对代码版本进行控制
+- 创业，投资，写作，分享...
 
 ## 联系我
 
-- QQ : 1772314831
+- QQ : 16694304
 
-- Email : [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email : [iotfeng@163.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
 
-- GitHub : [https://github.com/tmaize](https://github.com/tmaize)
+- GitHub : [https://github.com/cangzhifeng](https://github.com/cangzhifeng)
